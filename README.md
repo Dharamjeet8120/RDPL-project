@@ -67,15 +67,15 @@ RDPL centralises the information required to prepare a school's weekly timetable
 
 | Overview | Checks (data validation) |
 |:---:|:---:|
-| <img src="docs/screenshots/01-overview.png" alt="Overview page" width="420"> | <img src="docs/screenshots/02-checks.png" alt="Checks page with all checks passing" width="420"> |
+| <img src="./Overview.png" alt="Overview page" width="420"> | <img src="./checks.png" alt="Checks page with all checks passing" width="420"> |
 | **Generate** | **Timetable by section** |
-| <img src="docs/screenshots/03-generate.png" alt="Generate page after a successful run" width="420"> | <img src="docs/screenshots/04-timetable-section.png" alt="Weekly grid for one section" width="420"> |
+| <img src="./Generate.png" alt="Generate page after a successful run" width="420"> | <img src="./timeTable.png" alt="Weekly grid for one section" width="420"> |
 | **Timetable by teacher** | **History** |
-| <img src="docs/screenshots/05-timetable-teacher.png" alt="Weekly grid for one teacher" width="420"> | <img src="docs/screenshots/06-history.png" alt="Timetable history list" width="420"> |
+| <img src="./teacherTimeTable.png" alt="Weekly grid for one teacher" width="420"> | <img src="./history.png" alt="Timetable history list" width="420"> |
 | **Teachers** | **Classes and subjects** |
-| <img src="docs/screenshots/07-teachers.png" alt="Teachers page with assignments" width="420"> | <img src="docs/screenshots/08-curriculum.png" alt="Curriculum editor" width="420"> |
+| <img src="./teacher.png" alt="Teachers page with assignments" width="420"> | <img src="./class&Subject.png" alt="Curriculum editor" width="420"> |
 | **Bell schedule** | **Database** |
-| <img src="docs/screenshots/09-bell-schedule.png" alt="Bell schedule page" width="420"> | <img src="docs/screenshots/10-database.png" alt="Database page" width="420"> |
+| <img src="./bell.png" alt="Bell schedule page" width="420"> | <img src="./database.png" alt="Database page" width="420"> |
 
 ---
 
