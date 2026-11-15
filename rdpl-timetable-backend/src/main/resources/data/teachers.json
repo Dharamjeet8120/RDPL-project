@@ -1,0 +1,3292 @@
+{
+  "academicYear": "2026-2027",
+  "totalTeachers": 56,
+  "assignedTeachers": 44,
+  "unassignedTeachers": 12,
+  "teachers": [
+    {
+      "teacherId": "002",
+      "teacherName": "Ruchi Singh",
+      "totalPeriodsPerWeek": 28,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 2
+        }
+      ]
+    },
+    {
+      "teacherId": "100047",
+      "teacherName": "Ritika Malviya",
+      "totalPeriodsPerWeek": 32,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 8
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 2
+        }
+      ]
+    },
+    {
+      "teacherId": "100048",
+      "teacherName": "P Aliya Aliya Papua",
+      "totalPeriodsPerWeek": 46,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "100049",
+      "teacherName": "Jyoti Solanki",
+      "totalPeriodsPerWeek": 34,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "100052",
+      "teacherName": "Prarthana Goswami",
+      "totalPeriodsPerWeek": 27,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        }
+      ]
+    },
+    {
+      "teacherId": "100059",
+      "teacherName": "Harsha Talreja",
+      "totalPeriodsPerWeek": 40,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Science",
+          "periodsPerWeek": 6
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Science",
+          "periodsPerWeek": 6
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 7
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Science",
+          "periodsPerWeek": 6
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 6
+        }
+      ]
+    },
+    {
+      "teacherId": "100091",
+      "teacherName": "Ayushi Sharma",
+      "totalPeriodsPerWeek": 52,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Band / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Band / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Band / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Physical Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Physical Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Games (Subject)",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library Activity",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Games (Subject)",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library Activity",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "E1014",
+      "teacherName": "Laxmi Ghatt",
+      "totalPeriodsPerWeek": 28,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Art Education",
+          "periodsPerWeek": 2
+        }
+      ]
+    },
+    {
+      "teacherId": "E2133",
+      "teacherName": "Sujata Naidu",
+      "totalPeriodsPerWeek": 42,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Sanskrit / French / Robotics / Abacus / Entrepreneurship",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Sanskrit / French / Robotics / Abacus / Entrepreneurship",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "E2336",
+      "teacherName": "Mohd Fazal Rehman",
+      "totalPeriodsPerWeek": 52,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Band / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Band / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Band / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Physical Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Physical Education",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Games (Subject)",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library Activity",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Games (Subject)",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library Activity",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "E2628",
+      "teacherName": "Kavita A",
+      "totalPeriodsPerWeek": 34,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Geography",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Geography",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Geography",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Geography",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Geography",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library Activity",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Library (Subject)",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library Activity",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Library (Subject)",
+          "periodsPerWeek": 2
+        }
+      ]
+    },
+    {
+      "teacherId": "E2701",
+      "teacherName": "Harpreet Kaur",
+      "totalPeriodsPerWeek": 20,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "E2787",
+      "teacherName": "Rajni Soni",
+      "totalPeriodsPerWeek": 37,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 7
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Social Studies",
+          "periodsPerWeek": 6
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 2
+        }
+      ]
+    },
+    {
+      "teacherId": "E2904",
+      "teacherName": "Priyanka Rana",
+      "totalPeriodsPerWeek": 45,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English",
+          "periodsPerWeek": 8
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "GEN-2745",
+      "teacherName": "Firdosh .",
+      "totalPeriodsPerWeek": 8,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Sanskrit / French / Robotics / Abacus / Entrepreneurship",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Sanskrit / French / Robotics / Abacus / Entrepreneurship",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "GEN-3812",
+      "teacherName": "Arunav Kishor",
+      "totalPeriodsPerWeek": 10,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Robotics / Abacus",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Sanskrit / French / Robotics / Abacus / Entrepreneurship",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Sanskrit / French / Robotics / Abacus / Entrepreneurship",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "GEN-7649",
+      "teacherName": "Priyanka Singh",
+      "totalPeriodsPerWeek": 62,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 6
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Physics",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Physics",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Physics",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Physics",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Physics",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "GEN-9148",
+      "teacherName": "Anjali Dewangan",
+      "totalPeriodsPerWeek": 10,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Robotics / Abacus",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Sanskrit / French / Robotics / Abacus / Entrepreneurship",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Sanskrit / French / Robotics / Abacus / Entrepreneurship",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS06",
+      "teacherName": "Harshita Malviya",
+      "totalPeriodsPerWeek": 17,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 8
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS09",
+      "teacherName": "Dhanu Priya Kolte",
+      "totalPeriodsPerWeek": 32,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 8
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS54",
+      "teacherName": "Ruhamah David",
+      "totalPeriodsPerWeek": 20,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Economics",
+          "periodsPerWeek": 10
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Economics",
+          "periodsPerWeek": 10
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS67",
+      "teacherName": "Namita Nikam",
+      "totalPeriodsPerWeek": 20,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Biology",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Biology",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Biology",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Biology",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Biology",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS76",
+      "teacherName": "Seema Khatri",
+      "totalPeriodsPerWeek": 30,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 8
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS81",
+      "teacherName": "Prajakta Dhandore",
+      "totalPeriodsPerWeek": 7,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Happy Feet",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Happy Feet",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Happy Feet",
+          "periodsPerWeek": 2
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS85",
+      "teacherName": "Anjulika Singh",
+      "totalPeriodsPerWeek": 30,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Sanskrit / French / Robotics / Abacus / Entrepreneurship",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Sanskrit / French / Robotics / Abacus / Entrepreneurship",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Accounts",
+          "periodsPerWeek": 11
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Accounts",
+          "periodsPerWeek": 11
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS95",
+      "teacherName": "Preeti Muchhal",
+      "totalPeriodsPerWeek": 18,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Social Studies",
+          "periodsPerWeek": 6
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Social Studies",
+          "periodsPerWeek": 6
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Social Studies",
+          "periodsPerWeek": 6
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS115",
+      "teacherName": "Ashish Thakur",
+      "totalPeriodsPerWeek": 42,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 6
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS136",
+      "teacherName": "Shashi Shukla",
+      "totalPeriodsPerWeek": 20,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Physics",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Physics",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Physics",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Physics",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Physics",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS143",
+      "teacherName": "Meenakshi Singh",
+      "totalPeriodsPerWeek": 20,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS148",
+      "teacherName": "Neelam Pawar Digarse",
+      "totalPeriodsPerWeek": 40,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS149",
+      "teacherName": "Pratha Choubey",
+      "totalPeriodsPerWeek": 19,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "E.V.S.",
+          "periodsPerWeek": 8
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "E.V.S.",
+          "periodsPerWeek": 8
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS150",
+      "teacherName": "Sugatha Unnithan",
+      "totalPeriodsPerWeek": 39,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English",
+          "periodsPerWeek": 8
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS154",
+      "teacherName": "Soma Dinda",
+      "totalPeriodsPerWeek": 121,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English",
+          "periodsPerWeek": 8
+        },
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 7
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 7
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS157",
+      "teacherName": "Noshin Siddiqui",
+      "totalPeriodsPerWeek": 18,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Science",
+          "periodsPerWeek": 6
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Science",
+          "periodsPerWeek": 6
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Science",
+          "periodsPerWeek": 6
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS159",
+      "teacherName": "Saksham Sharma",
+      "totalPeriodsPerWeek": 20,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Chemistry",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Chemistry",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Chemistry",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Chemistry",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Chemistry",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS172",
+      "teacherName": "Swati Budholiya",
+      "totalPeriodsPerWeek": 38,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 8
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Computer",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Hindi Vyakaran",
+          "periodsPerWeek": 2
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS173",
+      "teacherName": "Shivendra Bopche",
+      "totalPeriodsPerWeek": 6,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Band / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Band / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Band / Skating",
+          "periodsPerWeek": 2
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS174",
+      "teacherName": "Ishwari Dubey",
+      "totalPeriodsPerWeek": 0,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": []
+    },
+    {
+      "teacherId": "RVS188",
+      "teacherName": "Kajal Shrivastava",
+      "totalPeriodsPerWeek": 77,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Happy Feet",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Happy Feet",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Happy Feet",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 4",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Band / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Band / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 5",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Science",
+          "periodsPerWeek": 6
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Biology",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Chemistry",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Karate / Gymnastics / Band / Skating",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Biology",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Chemistry",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Biology",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Games (Subject)",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library Activity",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Games (Subject)",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "ACTIVITY",
+          "subjectOrActivity": "Games / Library Activity",
+          "periodsPerWeek": 4
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS189",
+      "teacherName": "Neha Guha",
+      "totalPeriodsPerWeek": 22,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Business Studies",
+          "periodsPerWeek": 11
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Business Studies",
+          "periodsPerWeek": 11
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS190",
+      "teacherName": "Soumya Nair",
+      "totalPeriodsPerWeek": 58,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 7
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 7
+        }
+      ]
+    },
+    {
+      "teacherId": "RVS195",
+      "teacherName": "Anjali Singh Chauhan",
+      "totalPeriodsPerWeek": 21,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "E.V.S.",
+          "periodsPerWeek": 8
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "E.V.S.",
+          "periodsPerWeek": 8
+        }
+      ]
+    },
+    {
+      "teacherId": "RVT095",
+      "teacherName": "Aleena Khan",
+      "totalPeriodsPerWeek": 30,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 1",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 8
+        },
+        {
+          "className": "Class 2",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Communication",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 3",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "Mathematics",
+          "periodsPerWeek": 9
+        }
+      ]
+    },
+    {
+      "teacherId": "SPS26",
+      "teacherName": "Leena Jain",
+      "totalPeriodsPerWeek": 24,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "G.K. / Moral",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "History",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "History",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "History",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "History",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "History",
+          "periodsPerWeek": 5
+        }
+      ]
+    },
+    {
+      "teacherId": "E2887",
+      "teacherName": "Hema Pahuja",
+      "totalPeriodsPerWeek": 58,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": [
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 2
+        },
+        {
+          "className": "Class 6",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 4
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 7",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 8",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 9",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 10",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 3
+        },
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 11",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 7
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Language",
+          "periodsPerWeek": 5
+        },
+        {
+          "className": "Class 12",
+          "sectionId": null,
+          "sectionName": null,
+          "type": "SUBJECT",
+          "subjectOrActivity": "English Literature",
+          "periodsPerWeek": 7
+        }
+      ]
+    },
+    {
+      "teacherId": "GEN-1047",
+      "teacherName": "Mehreen Hasan",
+      "totalPeriodsPerWeek": 0,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": []
+    },
+    {
+      "teacherId": "GEN-8962",
+      "teacherName": "Jaskaran Kaur",
+      "totalPeriodsPerWeek": 0,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": []
+    },
+    {
+      "teacherId": "RVS13",
+      "teacherName": "Yogita Menghani",
+      "totalPeriodsPerWeek": 0,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": []
+    },
+    {
+      "teacherId": "RVS28",
+      "teacherName": "Kanchan Pinjare",
+      "totalPeriodsPerWeek": 0,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": []
+    },
+    {
+      "teacherId": "RVS55",
+      "teacherName": "Rama Rajput",
+      "totalPeriodsPerWeek": 0,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": []
+    },
+    {
+      "teacherId": "RVS118",
+      "teacherName": "Nitika Yadav",
+      "totalPeriodsPerWeek": 0,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": []
+    },
+    {
+      "teacherId": "RVS130",
+      "teacherName": "Nidhi Namdeo",
+      "totalPeriodsPerWeek": 0,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": []
+    },
+    {
+      "teacherId": "RVS144",
+      "teacherName": "Shaziya Khan",
+      "totalPeriodsPerWeek": 0,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": []
+    },
+    {
+      "teacherId": "RVS146",
+      "teacherName": "Ruchi Sharma",
+      "totalPeriodsPerWeek": 0,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": []
+    },
+    {
+      "teacherId": "RVS175",
+      "teacherName": "Rishita Chadar",
+      "totalPeriodsPerWeek": 0,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": []
+    },
+    {
+      "teacherId": "RVS185",
+      "teacherName": "Anshika Mishra",
+      "totalPeriodsPerWeek": 0,
+      "maxPeriodsPerDay": 0,
+      "maxPeriodsPerWeek": 0,
+      "assignments": []
+    }
+  ]
+}

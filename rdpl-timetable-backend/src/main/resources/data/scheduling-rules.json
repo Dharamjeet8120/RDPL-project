@@ -1,0 +1,307 @@
+
+{
+  "ruleSetName": "RDPL Timetable Scheduling Rules",
+  "academicYear": "2026-2027",
+  "description": "Hard, block, layout and soft constraints for the school timetable solver.",
+  "mandatoryHard": [
+    {
+      "id": "H1",
+      "name": "No Teacher Double Booking",
+      "type": "TEACHER_NO_OVERLAP",
+      "enabled": true,
+      "description": "A teacher cannot teach two sections in the same day and period."
+    },
+    {
+      "id": "H2",
+      "name": "Teacher Availability",
+      "type": "TEACHER_AVAILABILITY",
+      "enabled": true,
+      "emptyAvailabilityMeansAvailable": true,
+      "description": "Teachers cannot be assigned on their off-days or unavailable periods. Empty availability means fully available."
+    },
+    {
+      "id": "H3",
+      "name": "One Lesson Per Section Slot",
+      "type": "SECTION_EXACTLY_ONE",
+      "enabled": true,
+      "description": "Every active section must have exactly one lesson in each teaching period."
+    },
+    {
+      "id": "H4",
+      "name": "No Lesson During Break",
+      "type": "NO_BREAK_ASSIGNMENT",
+      "enabled": true,
+      "description": "No lesson can be assigned during short breaks or lunch breaks."
+    },
+    {
+      "id": "H5",
+      "name": "Consecutive Subject Blocks",
+      "type": "CONSECUTIVE_BLOCK",
+      "enabled": true,
+      "description": "Subjects requiring two or more periods per day should be scheduled in consecutive pairs."
+    },
+    {
+      "id": "H6",
+      "name": "Subject Day Restrictions",
+      "type": "SUBJECT_DAY_RESTRICTION",
+      "enabled": true,
+      "description": "Subjects must follow their configured allowed and restricted days."
+    },
+    {
+      "id": "H7",
+      "name": "Daily Subject Limit",
+      "type": "SUBJECT_DAILY_LIMIT",
+      "enabled": true,
+      "description": "A subject cannot exceed its maximum periods per day."
+    },
+    {
+      "id": "H8",
+      "name": "Weekly Subject Quota",
+      "type": "EXACT_WEEKLY_QUOTA",
+      "enabled": true,
+      "description": "Each subject must receive its required weekly periods."
+    },
+    {
+      "id": "H9",
+      "name": "Fixed Activity Slots",
+      "type": "FIXED_ACTIVITY_SLOT",
+      "enabled": true,
+      "description": "Activities with fixed day and period must be scheduled at those exact slots."
+    },
+    {
+      "id": "H10",
+      "name": "Exclude Zero Workload",
+      "type": "EXCLUDE_ZERO_WORKLOAD",
+      "enabled": true,
+      "description": "Assignments with zero weekly workload must not be scheduled."
+    },
+    {
+      "id": "T2",
+      "name": "Formal Teacher Assignment",
+      "type": "FIXED_ASSIGNED_TEACHER",
+      "enabled": true,
+      "description": "Use the teacher assigned in the official section-level teacher allocation data."
+    },
+    {
+      "id": "DATA-1",
+      "name": "Unassigned Teacher Rows",
+      "type": "SKIP_UNASSIGNED_TEACHER",
+      "enabled": true,
+      "unassignedTeacherCode": "UNASSIGNED-TT",
+      "description": "Do not schedule unassigned teacher rows. Report them as data conflicts."
+    }
+  ],
+  "blockAndLayout": [
+    {
+      "id": "B1",
+      "name": "Consecutive Period Pair",
+      "type": "CONSECUTIVE_PAIR",
+      "enabled": true,
+      "description": "A double-period block must occupy adjacent teaching periods without a break between them."
+    },
+    {
+      "id": "B2",
+      "name": "No Orphan Block",
+      "type": "NO_ORPHAN_BLOCK",
+      "enabled": true,
+      "description": "A block requiring two periods must not be scheduled as a single isolated period."
+    },
+    {
+      "id": "B3",
+      "name": "Pair Single Period Subjects",
+      "type": "PAIR_SINGLE_SUBJECTS",
+      "enabled": true,
+      "description": "Two single-period subjects may be placed in adjacent periods."
+    },
+    {
+      "id": "B4",
+      "name": "Different Subject Pairing",
+      "type": "DIFFERENT_SUBJECT_PAIR",
+      "enabled": true,
+      "description": "Do not pair subjects that share the same first word."
+    },
+    {
+      "id": "B5",
+      "name": "Daily and Weekly Caps",
+      "type": "STRICT_PERIOD_CAPS",
+      "enabled": true,
+      "description": "Never exceed configured daily or weekly subject limits."
+    }
+  ],
+  "layoutRules": [
+    {
+      "id": "L1",
+      "name": "Same First Word Subjects",
+      "type": "SAME_FIRST_WORD_DIFFERENT_DAY",
+      "enabled": true,
+      "description": "Subjects with the same first word must not be scheduled on the same day."
+    },
+    {
+      "id": "L2",
+      "name": "Avoid Same Subject Across Break",
+      "type": "NO_SAME_SUBJECT_ACROSS_BREAK",
+      "enabled": true,
+      "description": "Do not schedule the same subject in the last teaching period before a break and the first teaching period after that break."
+    },
+    {
+      "id": "L3",
+      "name": "Maximum Consecutive Subject Periods",
+      "type": "MAX_CONSECUTIVE_SUBJECT",
+      "enabled": true,
+      "maxConsecutivePeriods": 3,
+      "description": "A subject cannot occupy more than three consecutive teaching periods."
+    }
+  ],
+  "activityRules": [
+    {
+      "id": "G1",
+      "name": "Games and Library Not First Pair",
+      "type": "ACTIVITY_NOT_FIRST_PAIR",
+      "enabled": true,
+      "activities": ["Games", "Library"],
+      "restrictedPeriods": [1, 2]
+    },
+    {
+      "id": "G2",
+      "name": "Class 11 and 12 Games Library Separation",
+      "type": "SENIOR_ACTIVITY_DAY_SEPARATION",
+      "enabled": true,
+      "classes": ["Class 11", "Class 12"],
+      "activities": ["Games", "Library"]
+    },
+    {
+      "id": "G3",
+      "name": "Games Consecutive Limit",
+      "type": "MAX_CONSECUTIVE_ACTIVITY",
+      "enabled": true,
+      "activity": "Games",
+      "maxConsecutivePeriods": 2
+    },
+    {
+      "id": "G4",
+      "name": "Daily Games Limit",
+      "type": "ACTIVITY_DAILY_LIMIT",
+      "enabled": true,
+      "activity": "Games",
+      "maxPeriodsPerDay": 1,
+      "penaltyWeight": 8
+    },
+    {
+      "id": "G5",
+      "name": "Daily Library Limit",
+      "type": "ACTIVITY_DAILY_LIMIT",
+      "enabled": true,
+      "activity": "Library",
+      "maxPeriodsPerDay": 1,
+      "penaltyWeight": 8
+    }
+  ],
+  "soft": [
+    {
+      "id": "PR-MATH",
+      "name": "Math Morning Preference",
+      "type": "PREFER_MORNING",
+      "enabled": true,
+      "subjectKeywords": ["Math", "Mathematics"],
+      "preferredPeriods": [1, 2, 3, 4],
+      "preferredDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY"],
+      "weight": 10
+    },
+    {
+      "id": "PR1",
+      "name": "Prefer Restricted Day Subjects",
+      "type": "PREFER_ALLOWED_DAYS",
+      "enabled": true,
+      "weight": 8
+    },
+    {
+      "id": "PR5",
+      "name": "Prioritize Remaining Weekly Quota",
+      "type": "REMAINING_QUOTA_PRIORITY",
+      "enabled": true,
+      "weight": 8
+    },
+    {
+      "id": "PR6",
+      "name": "Avoid Teacher Daily Overload",
+      "type": "TEACHER_DAILY_LOAD_BALANCE",
+      "enabled": true,
+      "weight": 5
+    },
+    {
+      "id": "PR7",
+      "name": "Avoid Same Subject Repetition",
+      "type": "AVOID_SUBJECT_REPETITION",
+      "enabled": true,
+      "weight": 5
+    },
+    {
+      "id": "PR8",
+      "name": "Stagger Activities Across Sections",
+      "type": "STAGGER_ACTIVITIES",
+      "enabled": true,
+      "weight": 5
+    }
+  ],
+  "optional": [
+    {
+      "id": "R1",
+      "name": "Room Type Matching",
+      "type": "ROOM_TYPE_MATCHING",
+      "enabled": false,
+      "description": "Computer subjects require a Computer Lab; Science subjects require a Science Lab."
+    },
+    {
+      "id": "R2",
+      "name": "No Room Double Booking",
+      "type": "ROOM_NO_OVERLAP",
+      "enabled": false,
+      "description": "A room cannot be assigned to two sections in the same time slot."
+    },
+    {
+      "id": "M1",
+      "name": "Merged Section Scheduling",
+      "type": "MERGED_SECTION",
+      "enabled": false,
+      "description": "Sections sharing a merged subject may use the same master timetable slots."
+    },
+    {
+      "id": "P4",
+      "name": "Pre Primary Exclusion",
+      "type": "PRE_PRIMARY_EXCLUSION",
+      "enabled": false,
+      "classes": ["Pre Nursery", "Nursery", "Junior KG", "Senior KG"],
+      "description": "Optional production rule. Assessment mode currently retains all 41 sections."
+    }
+  ],
+  "deferred": [
+    {
+      "id": "SE",
+      "name": "Substitution Eligibility",
+      "enabled": false,
+      "description": "Teacher substitution eligibility is outside the current assessment scope."
+    },
+    {
+      "id": "SA",
+      "name": "Substitution Assignment",
+      "enabled": false,
+      "description": "Automatic substitution assignment is outside the current assessment scope."
+    },
+    {
+      "id": "FF",
+      "name": "Heuristic Force Fill",
+      "enabled": false,
+      "description": "The CP-SAT solver should use feasibility and objective optimization instead of heuristic force-fill passes."
+    }
+  ],
+  "dataAssumptions": {
+    "emptyTeacherAvailabilityMeansFullyAvailable": true,
+    "unassignedTeacherRowsAreSkipped": true,
+    "zeroWorkloadRowsAreSkipped": true,
+    "weeklyTeachingCapacity": 52,
+    "breakPeriodsAreNotSchedulable": true,
+    "all41SectionsIncluded": true,
+    "roomsAreOptional": true,
+    "activityInstructorsParticipateInTeacherConflictCheck": false
+  }
+  }

@@ -1,0 +1,65 @@
+
+{
+  "scheduleName": "Schedule-1",
+  "academicYear": "2026-2027",
+  "workingDays": [
+    "MONDAY",
+    "TUESDAY",
+    "WEDNESDAY",
+    "THURSDAY",
+    "FRIDAY",
+    "SATURDAY"
+  ],
+  "dayNumbering": {
+    "MONDAY": 1,
+    "TUESDAY": 2,
+    "WEDNESDAY": 3,
+    "THURSDAY": 4,
+    "FRIDAY": 5,
+    "SATURDAY": 6
+  },
+  "weeklyTeachingCapacity": 52,
+  "dailySchedules": [
+    {
+      "days": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY"],
+      "teachingPeriods": [
+        {"periodNumber": 1, "label": "1A", "startTime": "07:45", "endTime": "08:25"},
+        {"periodNumber": 2, "label": "1B", "startTime": "08:25", "endTime": "09:05"},
+        {"periodNumber": 3, "label": "2A", "startTime": "09:15", "endTime": "09:55"},
+        {"periodNumber": 4, "label": "2B", "startTime": "09:55", "endTime": "10:35"},
+        {"periodNumber": 5, "label": "3A", "startTime": "11:05", "endTime": "11:40"},
+        {"periodNumber": 6, "label": "3B", "startTime": "11:40", "endTime": "12:15"},
+        {"periodNumber": 7, "label": "4A", "startTime": "12:20", "endTime": "12:55"},
+        {"periodNumber": 8, "label": "4B", "startTime": "12:55", "endTime": "13:30"}
+      ],
+      "breaks": [
+        {"label": "Short Break", "startTime": "09:05", "endTime": "09:15"},
+        {"label": "Lunch Break", "startTime": "10:35", "endTime": "11:05"},
+        {"label": "Short Break", "startTime": "12:15", "endTime": "12:20"}
+      ],
+      "morningPeriods": [1, 2, 3, 4],
+      "afterLunchPeriods": [5, 6, 7, 8]
+    },
+    {
+      "days": ["FRIDAY", "SATURDAY"],
+      "teachingPeriods": [
+        {"periodNumber": 1, "label": "1A", "startTime": "07:45", "endTime": "08:15"},
+        {"periodNumber": 2, "label": "1B", "startTime": "08:15", "endTime": "08:45"},
+        {"periodNumber": 3, "label": "2A", "startTime": "08:55", "endTime": "09:30"},
+        {"periodNumber": 4, "label": "2B", "startTime": "09:30", "endTime": "10:00"},
+        {"periodNumber": 5, "label": "3A", "startTime": "10:30", "endTime": "11:00"},
+        {"periodNumber": 6, "label": "3B", "startTime": "11:00", "endTime": "11:30"},
+        {"periodNumber": 7, "label": "4A", "startTime": "11:30", "endTime": "12:00"},
+        {"periodNumber": 8, "label": "4B", "startTime": "12:00", "endTime": "12:30"},
+        {"periodNumber": 9, "label": "5A", "startTime": "12:30", "endTime": "13:00"},
+        {"periodNumber": 10, "label": "5B", "startTime": "13:00", "endTime": "13:30"}
+      ],
+      "breaks": [
+        {"label": "Short Break", "startTime": "08:45", "endTime": "08:55"},
+        {"label": "Lunch Break", "startTime": "10:00", "endTime": "10:30"}
+      ],
+      "morningPeriods": [1, 2, 3, 4],
+      "afterLunchPeriods": [5, 6, 7, 8, 9, 10]
+    }
+  ]
+}

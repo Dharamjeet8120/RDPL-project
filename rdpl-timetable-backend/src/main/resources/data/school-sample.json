@@ -1,0 +1,453 @@
+
+{
+  "school": {
+    "schoolName": "RDPL School",
+    "academicYear": "2026-2027",
+    "workingDays": [
+      "MONDAY",
+      "TUESDAY",
+      "WEDNESDAY",
+      "THURSDAY",
+      "FRIDAY",
+      "SATURDAY"
+    ],
+    "weeklyTeachingCapacity": 52
+  },
+  "sampleMode": true,
+  "description": "Initial five-section sample dataset for testing the timetable solver. Full-school data will be loaded separately.",
+  "classes": [
+    {
+      "sectionId": "class-1-lily",
+      "className": "Class 1",
+      "sectionName": "Lily",
+      "curriculum": [
+        {
+          "subject": "English",
+          "periodsPerWeek": 8,
+          "maxPeriodsPerDay": 2,
+          "teacherId": "T001"
+        },
+        {
+          "subject": "Hindi",
+          "periodsPerWeek": 6,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T002"
+        },
+        {
+          "subject": "Mathematics",
+          "periodsPerWeek": 8,
+          "maxPeriodsPerDay": 2,
+          "teacherId": "T003"
+        },
+        {
+          "subject": "EVS",
+          "periodsPerWeek": 6,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T004"
+        },
+        {
+          "subject": "Computer Studies",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T005"
+        },
+        {
+          "subject": "Arts Education",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T006"
+        },
+        {
+          "subject": "Physical Education",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T007"
+        },
+        {
+          "subject": "G.K. & Moral",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T008"
+        },
+        {
+          "subject": "Library",
+          "periodsPerWeek": 2,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T009"
+        },
+        {
+          "subject": "Games",
+          "periodsPerWeek": 2,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T010"
+        },
+        {
+          "subject": "Activity",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T011"
+        }
+      ]
+    },
+    {
+      "sectionId": "class-5-lily",
+      "className": "Class 5",
+      "sectionName": "Lily",
+      "curriculum": [
+        {
+          "subject": "English",
+          "periodsPerWeek": 8,
+          "maxPeriodsPerDay": 2,
+          "teacherId": "T001"
+        },
+        {
+          "subject": "Hindi",
+          "periodsPerWeek": 5,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T002"
+        },
+        {
+          "subject": "Mathematics",
+          "periodsPerWeek": 8,
+          "maxPeriodsPerDay": 2,
+          "teacherId": "T003"
+        },
+        {
+          "subject": "Science",
+          "periodsPerWeek": 6,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T012"
+        },
+        {
+          "subject": "Social Studies",
+          "periodsPerWeek": 6,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T013"
+        },
+        {
+          "subject": "Computer Studies",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T005"
+        },
+        {
+          "subject": "Arts Education",
+          "periodsPerWeek": 3,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T006"
+        },
+        {
+          "subject": "Physical Education",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T007"
+        },
+        {
+          "subject": "G.K. & Moral",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T008"
+        },
+        {
+          "subject": "Library",
+          "periodsPerWeek": 2,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T009"
+        },
+        {
+          "subject": "Games",
+          "periodsPerWeek": 2,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T010"
+        }
+      ]
+    },
+    {
+      "sectionId": "class-8-lily",
+      "className": "Class 8",
+      "sectionName": "Lily",
+      "curriculum": [
+        {
+          "subject": "English Language",
+          "periodsPerWeek": 5,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T014"
+        },
+        {
+          "subject": "English Literature",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T015"
+        },
+        {
+          "subject": "Hindi",
+          "periodsPerWeek": 5,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T002"
+        },
+        {
+          "subject": "Mathematics",
+          "periodsPerWeek": 7,
+          "maxPeriodsPerDay": 2,
+          "teacherId": "T003"
+        },
+        {
+          "subject": "Science",
+          "periodsPerWeek": 7,
+          "maxPeriodsPerDay": 2,
+          "teacherId": "T012"
+        },
+        {
+          "subject": "Social Studies",
+          "periodsPerWeek": 6,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T013"
+        },
+        {
+          "subject": "Computer Applications",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T005"
+        },
+        {
+          "subject": "Sanskrit",
+          "periodsPerWeek": 3,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T016"
+        },
+        {
+          "subject": "Physical Education",
+          "periodsPerWeek": 3,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T007"
+        },
+        {
+          "subject": "Arts Education",
+          "periodsPerWeek": 2,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T006"
+        },
+        {
+          "subject": "Library",
+          "periodsPerWeek": 2,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T009"
+        },
+        {
+          "subject": "Games",
+          "periodsPerWeek": 2,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T010"
+        },
+        {
+          "subject": "Activity",
+          "periodsPerWeek": 2,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T011"
+        }
+      ]
+    },
+    {
+      "sectionId": "class-10-lily",
+      "className": "Class 10",
+      "sectionName": "Lily",
+      "curriculum": [
+        {
+          "subject": "English Language",
+          "periodsPerWeek": 5,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T014"
+        },
+        {
+          "subject": "English Literature",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T015"
+        },
+        {
+          "subject": "Hindi",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T002"
+        },
+        {
+          "subject": "Mathematics",
+          "periodsPerWeek": 7,
+          "maxPeriodsPerDay": 2,
+          "teacherId": "T003"
+        },
+        {
+          "subject": "Physics",
+          "periodsPerWeek": 3,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T017"
+        },
+        {
+          "subject": "Chemistry",
+          "periodsPerWeek": 3,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T018"
+        },
+        {
+          "subject": "Biology",
+          "periodsPerWeek": 3,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T019"
+        },
+        {
+          "subject": "Social Studies",
+          "periodsPerWeek": 6,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T013"
+        },
+        {
+          "subject": "Computer Applications",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T005"
+        },
+        {
+          "subject": "Physical Education",
+          "periodsPerWeek": 3,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T007"
+        },
+        {
+          "subject": "Library",
+          "periodsPerWeek": 2,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T009"
+        },
+        {
+          "subject": "Games",
+          "periodsPerWeek": 2,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T010"
+        },
+        {
+          "subject": "Activity",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T011"
+        }
+      ]
+    },
+    {
+      "sectionId": "class-12-lily",
+      "className": "Class 12",
+      "sectionName": "Lily",
+      "curriculum": [
+        {
+          "subject": "English Language",
+          "periodsPerWeek": 5,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T014"
+        },
+        {
+          "subject": "English Literature",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T015"
+        },
+        {
+          "subject": "Mathematics",
+          "periodsPerWeek": 7,
+          "maxPeriodsPerDay": 2,
+          "teacherId": "T003"
+        },
+        {
+          "subject": "Physics",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T017"
+        },
+        {
+          "subject": "Chemistry",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T018"
+        },
+        {
+          "subject": "Biology",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T019"
+        },
+        {
+          "subject": "Computer Science",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T005"
+        },
+        {
+          "subject": "Physical Education",
+          "periodsPerWeek": 3,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T007"
+        },
+        {
+          "subject": "Library",
+          "periodsPerWeek": 2,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T009"
+        },
+        {
+          "subject": "Games",
+          "periodsPerWeek": 2,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T010"
+        },
+        {
+          "subject": "Activity",
+          "periodsPerWeek": 4,
+          "maxPeriodsPerDay": 1,
+          "teacherId": "T011"
+        }
+      ]
+    }
+  ],
+  "teachers": [
+    {"teacherId": "T001", "name": "Sample English Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T002", "name": "Sample Hindi Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T003", "name": "Sample Mathematics Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T004", "name": "Sample EVS Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T005", "name": "Sample Computer Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T006", "name": "Sample Arts Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T007", "name": "Sample Physical Education Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T008", "name": "Sample G.K. Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T009", "name": "Sample Library Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T010", "name": "Sample Games Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T011", "name": "Sample Activity Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T012", "name": "Sample Science Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T013", "name": "Sample Social Studies Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T014", "name": "Sample English Language Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T015", "name": "Sample English Literature Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T016", "name": "Sample Sanskrit Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T017", "name": "Sample Physics Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T018", "name": "Sample Chemistry Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30},
+    {"teacherId": "T019", "name": "Sample Biology Teacher", "maxPeriodsPerDay": 6, "maxPeriodsPerWeek": 30}
+  ],
+  "hardConstraints": [
+    "NO_TEACHER_DOUBLE_BOOKING",
+    "NO_SECTION_SLOT_OVERLAP",
+    "NO_BREAK_ASSIGNMENT",
+    "RESPECT_TEACHER_AVAILABILITY",
+    "RESPECT_WEEKLY_SUBJECT_QUOTA",
+    "RESPECT_DAILY_SUBJECT_LIMIT",
+    "RESPECT_FIXED_ACTIVITY_SLOTS"
+  ],
+  "softConstraints": [
+    {
+      "name": "Prefer Mathematics In Morning",
+      "type": "PREFER_MORNING",
+      "subject": "Mathematics",
+      "preferredPeriods": [1, 2, 3, 4],
+      "weight": 10
+    },
+    {
+      "name": "Avoid Same Subject Repetition",
+      "type": "AVOID_SUBJECT_REPETITION",
+      "weight": 5
+    }
+  ]
+}

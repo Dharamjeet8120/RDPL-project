@@ -1,0 +1,481 @@
+
+{
+  "academicYear": "2026-2027",
+  "totalAssignmentRows": 210,
+  "teachers": [
+    {
+      "teacherId": "002",
+      "teacherName": "Ruchi Singh",
+      "assignments": [
+        {"className": "Class 1", "type": "Subject", "subjectOrActivity": "Art Education", "periodsPerWeek": 20},
+        {"className": "Class 2", "type": "Subject", "subjectOrActivity": "Art Education", "periodsPerWeek": 20},
+        {"className": "Class 7", "type": "Subject", "subjectOrActivity": "Art Education", "periodsPerWeek": 5}
+      ]
+    },
+    {
+      "teacherId": "100047",
+      "teacherName": "Ritika Malviya",
+      "assignments": [
+        {"className": "Class 3", "type": "Subject", "subjectOrActivity": "Communication", "periodsPerWeek": 20},
+        {"className": "Class 3", "type": "Subject", "subjectOrActivity": "G.K./Moral", "periodsPerWeek": 20},
+        {"className": "Class 4", "type": "Subject", "subjectOrActivity": "G.K./Moral", "periodsPerWeek": 15},
+        {"className": "Class 6", "type": "Subject", "subjectOrActivity": "English", "periodsPerWeek": 10},
+        {"className": "Class 7", "type": "Subject", "subjectOrActivity": "English", "periodsPerWeek": 5},
+        {"className": "Class 8", "type": "Subject", "subjectOrActivity": "English", "periodsPerWeek": 5}
+      ]
+    },
+    {
+      "teacherId": "100048",
+      "teacherName": "P Aliya Aliya Papua",
+      "assignments": [
+        {"className": "Class 2", "type": "Subject", "subjectOrActivity": "Communication", "periodsPerWeek": 20},
+        {"className": "Class 2", "type": "Subject", "subjectOrActivity": "English", "periodsPerWeek": 20}
+      ]
+    },
+    {
+      "teacherId": "100049",
+      "teacherName": "Jyoti Solanki",
+      "assignments": [
+        {"className": "Class 5", "type": "Subject", "subjectOrActivity": "Hindi", "periodsPerWeek": 10},
+        {"className": "Class 6", "type": "Subject", "subjectOrActivity": "Hindi", "periodsPerWeek": 10}
+      ]
+    },
+    {
+      "teacherId": "100052",
+      "teacherName": "Prarthana Goswami",
+      "assignments": [
+        {"className": "Class 2", "type": "Subject", "subjectOrActivity": "Mathematics", "periodsPerWeek": 20}
+      ]
+    },
+    {
+      "teacherId": "100059",
+      "teacherName": "Harsha Talreja",
+      "assignments": [
+        {"className": "Class 4", "type": "Subject", "subjectOrActivity": "Mathematics", "periodsPerWeek": 0},
+        {"className": "Class 4", "type": "Subject", "subjectOrActivity": "Science", "periodsPerWeek": 0}
+      ]
+    },
+    {
+      "teacherId": "100091",
+      "teacherName": "Ayushi Sharma",
+      "assignments": [
+        {"className": "Class 1", "type": "Subject", "subjectOrActivity": "Games", "periodsPerWeek": 20},
+        {"className": "Class 2", "type": "Subject", "subjectOrActivity": "Games", "periodsPerWeek": 20},
+        {"className": "Class 3", "type": "Subject", "subjectOrActivity": "Games", "periodsPerWeek": 20},
+        {"className": "Class 4", "type": "Subject", "subjectOrActivity": "Games", "periodsPerWeek": 15},
+        {"className": "Class 5", "type": "Subject", "subjectOrActivity": "Games", "periodsPerWeek": 10},
+        {"className": "Class 7", "type": "Subject", "subjectOrActivity": "Games", "periodsPerWeek": 5}
+      ]
+    },
+    {
+      "teacherId": "E1014",
+      "teacherName": "Laxmi Ghatt",
+      "assignments": [
+        {"className": "Class 6", "type": "Subject", "subjectOrActivity": "Art Education", "periodsPerWeek": 10},
+        {"className": "Class 7", "type": "Subject", "subjectOrActivity": "Art Education", "periodsPerWeek": 5},
+        {"className": "Class 8", "type": "Subject", "subjectOrActivity": "Art Education", "periodsPerWeek": 5},
+        {"className": "Class 9", "type": "Subject", "subjectOrActivity": "Art Education", "periodsPerWeek": 10},
+        {"className": "Class 10", "type": "Subject", "subjectOrActivity": "Art Education", "periodsPerWeek": 10},
+        {"className": "Class 11", "type": "Subject", "subjectOrActivity": "Art Education", "periodsPerWeek": 10},
+        {"className": "Class 12", "type": "Subject", "subjectOrActivity": "Art Education", "periodsPerWeek": 10}
+      ]
+    },
+    {
+      "teacherId": "E2133",
+      "teacherName": "Sujata Naidu",
+      "assignments": [
+        {"className": "Class 5", "type": "Subject", "subjectOrActivity": "Hindi", "periodsPerWeek": 0},
+        {"className": "Class 5", "type": "Activity", "subjectOrActivity": "Sanskrit", "periodsPerWeek": 0},
+        {"className": "Class 6", "type": "Subject", "subjectOrActivity": "Hindi", "periodsPerWeek": 0},
+        {"className": "Class 6", "type": "Activity", "subjectOrActivity": "Sanskrit", "periodsPerWeek": 0},
+        {"className": "Class 7", "type": "Subject", "subjectOrActivity": "Hindi", "periodsPerWeek": 0},
+        {"className": "Class 7", "type": "Activity", "subjectOrActivity": "Sanskrit", "periodsPerWeek": 0},
+        {"className": "Class 8", "type": "Subject", "subjectOrActivity": "Hindi", "periodsPerWeek": 0},
+        {"className": "Class 8", "type": "Activity", "subjectOrActivity": "Sanskrit", "periodsPerWeek": 0},
+        {"className": "Class 9", "type": "Subject", "subjectOrActivity": "Hindi", "periodsPerWeek": 0},
+        {"className": "Class 10", "type": "Subject", "subjectOrActivity": "Hindi", "periodsPerWeek": 0}
+      ]
+    },
+    {
+      "teacherId": "E2336",
+      "teacherName": "Mohd Fazal Rehman",
+      "assignments": [
+        {"className": "Class 4", "type": "Subject", "subjectOrActivity": "Games", "periodsPerWeek": 0},
+        {"className": "Class 5", "type": "Subject", "subjectOrActivity": "Games", "periodsPerWeek": 0},
+        {"className": "Class 6", "type": "Subject", "subjectOrActivity": "Games", "periodsPerWeek": 0},
+        {"className": "Class 7", "type": "Subject", "subjectOrActivity": "Games", "periodsPerWeek": 0},
+        {"className": "Class 8", "type": "Subject", "subjectOrActivity": "Games", "periodsPerWeek": 0},
+        {"className": "Class 9", "type": "Subject", "subjectOrActivity": "Games", "periodsPerWeek": 0},
+        {"className": "Class 9", "type": "Subject", "subjectOrActivity": "Physical Education", "periodsPerWeek": 0},
+        {"className": "Class 10", "type": "Subject", "subjectOrActivity": "Games", "periodsPerWeek": 0},
+        {"className": "Class 10", "type": "Subject", "subjectOrActivity": "Physical Education", "periodsPerWeek": 0},
+        {"className": "Class 11", "type": "Subject", "subjectOrActivity": "Games", "periodsPerWeek": 0},
+        {"className": "Class 11", "type": "Subject", "subjectOrActivity": "Physical Education", "periodsPerWeek": 0},
+        {"className": "Class 12", "type": "Subject", "subjectOrActivity": "Games", "periodsPerWeek": 0},
+        {"className": "Class 12", "type": "Subject", "subjectOrActivity": "Physical Education", "periodsPerWeek": 0}
+      ]
+    },
+    {
+      "teacherId": "E2628",
+      "teacherName": "Kavita A",
+      "assignments": [
+        {"className": "Class 4", "type": "Subject", "subjectOrActivity": "Library", "periodsPerWeek": 15},
+        {"className": "Class 5", "type": "Subject", "subjectOrActivity": "Library", "periodsPerWeek": 10},
+        {"className": "Class 6", "type": "Subject", "subjectOrActivity": "Geography", "periodsPerWeek": 10},
+        {"className": "Class 7", "type": "Subject", "subjectOrActivity": "Geography", "periodsPerWeek": 5},
+        {"className": "Class 7", "type": "Subject", "subjectOrActivity": "Library", "periodsPerWeek": 5},
+        {"className": "Class 8", "type": "Subject", "subjectOrActivity": "Geography", "periodsPerWeek": 5},
+        {"className": "Class 9", "type": "Subject", "subjectOrActivity": "Geography", "periodsPerWeek": 10},
+        {"className": "Class 10", "type": "Subject", "subjectOrActivity": "Geography", "periodsPerWeek": 10},
+        {"className": "Class 11", "type": "Subject", "subjectOrActivity": "Library", "periodsPerWeek": 10},
+        {"className": "Class 12", "type": "Subject", "subjectOrActivity": "Library", "periodsPerWeek": 10}
+      ]
+    },
+    {
+      "teacherId": "E2701",
+      "teacherName": "Harpreet Kaur",
+      "assignments": [
+        {"className": "Class 7", "type": "Subject", "subjectOrActivity": "Computer", "periodsPerWeek": 0},
+        {"className": "Class 8", "type": "Subject", "subjectOrActivity": "Computer", "periodsPerWeek": 0},
+        {"className": "Class 9", "type": "Subject", "subjectOrActivity": "Computer", "periodsPerWeek": 0},
+        {"className": "Class 10", "type": "Subject", "subjectOrActivity": "Computer", "periodsPerWeek": 0},
+        {"className": "Class 11", "type": "Subject", "subjectOrActivity": "Computer", "periodsPerWeek": 0},
+        {"className": "Class 12", "type": "Subject", "subjectOrActivity": "Computer", "periodsPerWeek": 0}
+      ]
+    },
+    {
+      "teacherId": "E2787",
+      "teacherName": "Rajni Soni",
+      "assignments": [
+        {"className": "Class 5", "type": "Subject", "subjectOrActivity": "Communication", "periodsPerWeek": 10},
+        {"className": "Class 5", "type": "Subject", "subjectOrActivity": "G.K./Moral", "periodsPerWeek": 10},
+        {"className": "Class 5", "type": "Subject", "subjectOrActivity": "Mathematics", "periodsPerWeek": 10},
+        {"className": "Class 5", "type": "Subject", "subjectOrActivity": "Social Studies", "periodsPerWeek": 10}
+      ]
+    },
+    {
+      "teacherId": "E2904",
+      "teacherName": "Priyanka Rana",
+      "assignments": [
+        {"className": "Class 1", "type": "Subject", "subjectOrActivity": "English", "periodsPerWeek": 20}
+      ]
+    },
+    {
+      "teacherId": "GEN-2745",
+      "teacherName": "Firdosh .",
+      "assignments": [
+        {"className": "Class 5", "type": "Activity", "subjectOrActivity": "French", "periodsPerWeek": 0},
+        {"className": "Class 6", "type": "Activity", "subjectOrActivity": "French", "periodsPerWeek": 0},
+        {"className": "Class 7", "type": "Activity", "subjectOrActivity": "French", "periodsPerWeek": 0},
+        {"className": "Class 8", "type": "Activity", "subjectOrActivity": "French", "periodsPerWeek": 0}
+      ]
+    },
+    {
+      "teacherId": "GEN-3812",
+      "teacherName": "Arunav Kishor",
+      "assignments": [
+        {"className": "Class 4", "type": "Activity", "subjectOrActivity": "Robotics", "periodsPerWeek": 15},
+        {"className": "Class 5", "type": "Activity", "subjectOrActivity": "Robotics", "periodsPerWeek": 10},
+        {"className": "Class 6", "type": "Activity", "subjectOrActivity": "Robotics", "periodsPerWeek": 10},
+        {"className": "Class 7", "type": "Activity", "subjectOrActivity": "Robotics", "periodsPerWeek": 5},
+        {"className": "Class 8", "type": "Activity", "subjectOrActivity": "Robotics", "periodsPerWeek": 5}
+      ]
+    },
+    {
+      "teacherId": "GEN-7649",
+      "teacherName": "Priyanka Singh",
+      "assignments": [
+        {"className": "Class 6", "type": "Subject", "subjectOrActivity": "Mathematics", "periodsPerWeek": 10},
+        {"className": "Class 6", "type": "Subject", "subjectOrActivity": "Physics", "periodsPerWeek": 10},
+        {"className": "Class 7", "type": "Subject", "subjectOrActivity": "Mathematics", "periodsPerWeek": 5},
+        {"className": "Class 7", "type": "Subject", "subjectOrActivity": "Physics", "periodsPerWeek": 5}
+      ]
+    },
+    {
+      "teacherId": "GEN-9148",
+      "teacherName": "Anjali Dewangan",
+      "assignments": [
+        {"className": "Class 4", "type": "Activity", "subjectOrActivity": "Abacus", "periodsPerWeek": 15},
+        {"className": "Class 5", "type": "Activity", "subjectOrActivity": "Abacus", "periodsPerWeek": 10},
+        {"className": "Class 6", "type": "Activity", "subjectOrActivity": "Abacus", "periodsPerWeek": 10},
+        {"className": "Class 7", "type": "Activity", "subjectOrActivity": "Abacus", "periodsPerWeek": 5},
+        {"className": "Class 8", "type": "Activity", "subjectOrActivity": "Abacus", "periodsPerWeek": 5}
+      ]
+    },
+    {
+      "teacherId": "RVS06",
+      "teacherName": "Harshita Malviya",
+      "assignments": [
+        {"className": "Class 1", "type": "Subject", "subjectOrActivity": "Mathematics", "periodsPerWeek": 0}
+      ]
+    },
+    {
+      "teacherId": "RVS09",
+      "teacherName": "Dhanu Priya Kolte",
+      "assignments": [
+        {"className": "Class 3", "type": "Subject", "subjectOrActivity": "Hindi", "periodsPerWeek": 20},
+        {"className": "Class 4", "type": "Subject", "subjectOrActivity": "Hindi", "periodsPerWeek": 15}
+      ]
+    },
+    {
+      "teacherId": "RVS54",
+      "teacherName": "Ruhamah David",
+      "assignments": [
+        {"className": "Class 9", "type": "Subject", "subjectOrActivity": "Economics", "periodsPerWeek": 10},
+        {"className": "Class 10", "type": "Subject", "subjectOrActivity": "Economics", "periodsPerWeek": 10},
+        {"className": "Class 11", "type": "Subject", "subjectOrActivity": "Economics", "periodsPerWeek": 10},
+        {"className": "Class 12", "type": "Subject", "subjectOrActivity": "Economics", "periodsPerWeek": 10}
+      ]
+    },
+    {
+      "teacherId": "RVS67",
+      "teacherName": "Namita Nikam",
+      "assignments": [
+        {"className": "Class 8", "type": "Subject", "subjectOrActivity": "Biology", "periodsPerWeek": 0},
+        {"className": "Class 9", "type": "Subject", "subjectOrActivity": "Biology", "periodsPerWeek": 0},
+        {"className": "Class 10", "type": "Subject", "subjectOrActivity": "Biology", "periodsPerWeek": 0},
+        {"className": "Class 11", "type": "Subject", "subjectOrActivity": "Biology", "periodsPerWeek": 0},
+        {"className": "Class 12", "type": "Subject", "subjectOrActivity": "Biology", "periodsPerWeek": 0}
+      ]
+    },
+    {
+      "teacherId": "RVS76",
+      "teacherName": "Seema Khatri",
+      "assignments": [
+        {"className": "Class 1", "type": "Subject", "subjectOrActivity": "Communication", "periodsPerWeek": 0},
+        {"className": "Class 2", "type": "Subject", "subjectOrActivity": "Hindi", "periodsPerWeek": 0},
+        {"className": "Class 4", "type": "Subject", "subjectOrActivity": "Hindi", "periodsPerWeek": 0}
+      ]
+    },
+    {
+      "teacherId": "RVS81",
+      "teacherName": "Prajakta Dhandore",
+      "assignments": [
+        {"className": "Class 1", "type": "Subject", "subjectOrActivity": "Dance", "periodsPerWeek": 20},
+        {"className": "Class 2", "type": "Subject", "subjectOrActivity": "Dance", "periodsPerWeek": 20},
+        {"className": "Class 3", "type": "Subject", "subjectOrActivity": "Dance", "periodsPerWeek": 20},
+        {"className": "Class 4", "type": "Subject", "subjectOrActivity": "Dance", "periodsPerWeek": 15},
+        {"className": "Class 5", "type": "Subject", "subjectOrActivity": "Dance", "periodsPerWeek": 10},
+        {"className": "Class 6", "type": "Subject", "subjectOrActivity": "Dance", "periodsPerWeek": 10},
+        {"className": "Class 7", "type": "Subject", "subjectOrActivity": "Dance", "periodsPerWeek": 5},
+        {"className": "Class 8", "type": "Subject", "subjectOrActivity": "Dance", "periodsPerWeek": 5}
+      ]
+    },
+    {
+      "teacherId": "RVS85",
+      "teacherName": "Anjulika Singh",
+      "assignments": [
+        {"className": "Class 4", "type": "Activity", "subjectOrActivity": "Entrepreneurship", "periodsPerWeek": 15},
+        {"className": "Class 5", "type": "Activity", "subjectOrActivity": "Entrepreneurship", "periodsPerWeek": 10},
+        {"className": "Class 6", "type": "Activity", "subjectOrActivity": "Entrepreneurship", "periodsPerWeek": 10},
+        {"className": "Class 7", "type": "Activity", "subjectOrActivity": "Entrepreneurship", "periodsPerWeek": 5},
+        {"className": "Class 8", "type": "Activity", "subjectOrActivity": "Entrepreneurship", "periodsPerWeek": 5},
+        {"className": "Class 9", "type": "Subject", "subjectOrActivity": "Accounts", "periodsPerWeek": 10},
+        {"className": "Class 10", "type": "Subject", "subjectOrActivity": "Accounts", "periodsPerWeek": 10},
+        {"className": "Class 11", "type": "Subject", "subjectOrActivity": "Accounts", "periodsPerWeek": 10},
+        {"className": "Class 12", "type": "Subject", "subjectOrActivity": "Accounts", "periodsPerWeek": 10}
+      ]
+    },
+    {
+      "teacherId": "RVS95",
+      "teacherName": "Preeti Muchhal",
+      "assignments": [
+        {"className": "Class 3", "type": "Subject", "subjectOrActivity": "Social Studies", "periodsPerWeek": 20},
+        {"className": "Class 4", "type": "Subject", "subjectOrActivity": "Social Studies", "periodsPerWeek": 15}
+      ]
+    },
+    {
+      "teacherId": "RVS115",
+      "teacherName": "Ashish Thakur",
+      "assignments": [
+        {"className": "Class 9", "type": "Subject", "subjectOrActivity": "Mathematics", "periodsPerWeek": 0},
+        {"className": "Class 10", "type": "Subject", "subjectOrActivity": "Mathematics", "periodsPerWeek": 0},
+        {"className": "Class 11", "type": "Subject", "subjectOrActivity": "Mathematics", "periodsPerWeek": 0},
+        {"className": "Class 12", "type": "Subject", "subjectOrActivity": "Mathematics", "periodsPerWeek": 0}
+      ]
+    },
+    {
+      "teacherId": "RVS136",
+      "teacherName": "Shashi Shukla",
+      "assignments": [
+        {"className": "Class 8", "type": "Subject", "subjectOrActivity": "Physics", "periodsPerWeek": 5},
+        {"className": "Class 9", "type": "Subject", "subjectOrActivity": "Physics", "periodsPerWeek": 10},
+        {"className": "Class 10", "type": "Subject", "subjectOrActivity": "Physics", "periodsPerWeek": 10},
+        {"className": "Class 11", "type": "Subject", "subjectOrActivity": "Physics", "periodsPerWeek": 10},
+        {"className": "Class 12", "type": "Subject", "subjectOrActivity": "Physics", "periodsPerWeek": 10}
+      ]
+    },
+    {
+      "teacherId": "RVS143",
+      "teacherName": "Meenakshi Singh",
+      "assignments": [
+        {"className": "Class 3", "type": "Subject", "subjectOrActivity": "Computer", "periodsPerWeek": 0},
+        {"className": "Class 4", "type": "Subject", "subjectOrActivity": "Computer", "periodsPerWeek": 0},
+        {"className": "Class 5", "type": "Subject", "subjectOrActivity": "Computer", "periodsPerWeek": 0}
+      ]
+    },
+    {
+      "teacherId": "RVS148",
+      "teacherName": "Neelam Pawar Digarse",
+      "assignments": [
+        {"className": "Class 1", "type": "Subject", "subjectOrActivity": "Computer", "periodsPerWeek": 20},
+        {"className": "Class 2", "type": "Subject", "subjectOrActivity": "Computer", "periodsPerWeek": 20},
+        {"className": "Class 3", "type": "Subject", "subjectOrActivity": "Computer", "periodsPerWeek": 20},
+        {"className": "Class 6", "type": "Subject", "subjectOrActivity": "Computer", "periodsPerWeek": 10}
+      ]
+    },
+    {
+      "teacherId": "RVS149",
+      "teacherName": "Pratha Choubey",
+      "assignments": [
+        {"className": "Class 2", "type": "Subject", "subjectOrActivity": "Communication", "periodsPerWeek": 20},
+        {"className": "Class 2", "type": "Subject", "subjectOrActivity": "E.V.S.", "periodsPerWeek": 20}
+      ]
+    },
+    {
+      "teacherId": "RVS150",
+      "teacherName": "Sugatha Unnithan",
+      "assignments": [
+        {"className": "Class 1", "type": "Subject", "subjectOrActivity": "Communication", "periodsPerWeek": 0},
+        {"className": "Class 3", "type": "Subject", "subjectOrActivity": "English", "periodsPerWeek": 0}
+      ]
+    },
+    {
+      "teacherId": "RVS154",
+      "teacherName": "Soma Dinda",
+      "assignments": [
+        {"className": "Class 2", "type": "Subject", "subjectOrActivity": "Communication", "periodsPerWeek": 20},
+        {"className": "Class 4", "type": "Subject", "subjectOrActivity": "Communication", "periodsPerWeek": 15},
+        {"className": "Class 4", "type": "Subject", "subjectOrActivity": "G.K./Moral", "periodsPerWeek": 15},
+        {"className": "Class 5", "type": "Subject", "subjectOrActivity": "English", "periodsPerWeek": 10}
+      ]
+    },
+    {
+      "teacherId": "RVS157",
+      "teacherName": "Noshin Siddiqui",
+      "assignments": [
+        {"className": "Class 3", "type": "Subject", "subjectOrActivity": "Science", "periodsPerWeek": 20},
+        {"className": "Class 4", "type": "Subject", "subjectOrActivity": "Science", "periodsPerWeek": 15}
+      ]
+    },
+    {
+      "teacherId": "RVS159",
+      "teacherName": "Saksham Sharma",
+      "assignments": [
+        {"className": "Class 8", "type": "Subject", "subjectOrActivity": "Chemistry", "periodsPerWeek": 0},
+        {"className": "Class 9", "type": "Subject", "subjectOrActivity": "Chemistry", "periodsPerWeek": 0},
+        {"className": "Class 10", "type": "Subject", "subjectOrActivity": "Chemistry", "periodsPerWeek": 0},
+        {"className": "Class 11", "type": "Subject", "subjectOrActivity": "Chemistry", "periodsPerWeek": 0},
+        {"className": "Class 12", "type": "Subject", "subjectOrActivity": "Chemistry", "periodsPerWeek": 0}
+      ]
+    },
+    {
+      "teacherId": "RVS172",
+      "teacherName": "Swati Budholiya",
+      "assignments": [
+        {"className": "Class 1", "type": "Subject", "subjectOrActivity": "Computer", "periodsPerWeek": 20},
+        {"className": "Class 1", "type": "Subject", "subjectOrActivity": "Hindi", "periodsPerWeek": 20}
+      ]
+    },
+    {
+      "teacherId": "RVS173",
+      "teacherName": "Shivendra Bopche",
+      "assignments": [
+        {"className": "Class 1", "type": "Activity", "subjectOrActivity": "Music", "periodsPerWeek": 20},
+        {"className": "Class 2", "type": "Activity", "subjectOrActivity": "Music", "periodsPerWeek": 20},
+        {"className": "Class 3", "type": "Activity", "subjectOrActivity": "Music", "periodsPerWeek": 20},
+        {"className": "Class 4", "type": "Activity", "subjectOrActivity": "Music", "periodsPerWeek": 15},
+        {"className": "Class 5", "type": "Activity", "subjectOrActivity": "Music", "periodsPerWeek": 10},
+        {"className": "Class 6", "type": "Activity", "subjectOrActivity": "Music", "periodsPerWeek": 10},
+        {"className": "Class 7", "type": "Activity", "subjectOrActivity": "Music", "periodsPerWeek": 5},
+        {"className": "Class 8", "type": "Activity", "subjectOrActivity": "Music", "periodsPerWeek": 5}
+      ]
+    },
+    {
+      "teacherId": "RVS174",
+      "teacherName": "Ishwari Dubey",
+      "assignments": [
+        {"className": "Class 2", "type": "Subject", "subjectOrActivity": "Library", "periodsPerWeek": 0},
+        {"className": "Class 3", "type": "Subject", "subjectOrActivity": "Library", "periodsPerWeek": 0},
+        {"className": "Class 4", "type": "Subject", "subjectOrActivity": "Library", "periodsPerWeek": 0},
+        {"className": "Class 5", "type": "Subject", "subjectOrActivity": "Library", "periodsPerWeek": 0}
+      ]
+    },
+    {
+      "teacherId": "RVS188",
+      "teacherName": "Kajal Shrivastava",
+      "assignments": [
+        {"className": "Class 1", "type": "Activity", "subjectOrActivity": "Games", "periodsPerWeek": 16},
+        {"className": "Class 1", "type": "Activity", "subjectOrActivity": "Happy Feet", "periodsPerWeek": 8},
+        {"className": "Class 1", "type": "Activity", "subjectOrActivity": "Karate", "periodsPerWeek": 8},
+        {"className": "Class 2", "type": "Activity", "subjectOrActivity": "Happy Feet", "periodsPerWeek": 12},
+        {"className": "Class 2", "type": "Activity", "subjectOrActivity": "Karate", "periodsPerWeek": 8},
+        {"className": "Class 3", "type": "Activity", "subjectOrActivity": "Happy Feet", "periodsPerWeek": 8},
+        {"className": "Class 3", "type": "Activity", "subjectOrActivity": "Karate", "periodsPerWeek": 8},
+        {"className": "Class 4", "type": "Activity", "subjectOrActivity": "Karate", "periodsPerWeek": 6},
+        {"className": "Class 4", "type": "Activity", "subjectOrActivity": "Robotics", "periodsPerWeek": 6},
+        {"className": "Class 5", "type": "Activity", "subjectOrActivity": "Karate", "periodsPerWeek": 4},
+        {"className": "Class 5", "type": "Activity", "subjectOrActivity": "Sanskrit", "periodsPerWeek": 8},
+        {"className": "Class 5", "type": "Subject", "subjectOrActivity": "Science", "periodsPerWeek": 10},
+        {"className": "Class 6", "type": "Subject", "subjectOrActivity": "Biology", "periodsPerWeek": 10},
+        {"className": "Class 6", "type": "Subject", "subjectOrActivity": "Chemistry", "periodsPerWeek": 10},
+        {"className": "Class 6", "type": "Activity", "subjectOrActivity": "Karate", "periodsPerWeek": 2},
+        {"className": "Class 6", "type": "Activity", "subjectOrActivity": "Sanskrit", "periodsPerWeek": 4},
+        {"className": "Class 7", "type": "Subject", "subjectOrActivity": "Biology", "periodsPerWeek": 5},
+        {"className": "Class 7", "type": "Subject", "subjectOrActivity": "Chemistry", "periodsPerWeek": 5},
+        {"className": "Class 9", "type": "Activity", "subjectOrActivity": "Games", "periodsPerWeek": 8},
+        {"className": "Class 10", "type": "Activity", "subjectOrActivity": "Games", "periodsPerWeek": 8},
+        {"className": "Class 11", "type": "Activity", "subjectOrActivity": "Games", "periodsPerWeek": 8},
+        {"className": "Class 12", "type": "Activity", "subjectOrActivity": "Games", "periodsPerWeek": 8}
+      ]
+    },
+    {
+      "teacherId": "RVS189",
+      "teacherName": "Neha Guha",
+      "assignments": [
+        {"className": "Class 9", "type": "Subject", "subjectOrActivity": "Commercial Studies", "periodsPerWeek": 0},
+        {"className": "Class 10", "type": "Subject", "subjectOrActivity": "Commercial Studies", "periodsPerWeek": 0},
+        {"className": "Class 11", "type": "Subject", "subjectOrActivity": "Business Studies", "periodsPerWeek": 0},
+        {"className": "Class 12", "type": "Subject", "subjectOrActivity": "Business Studies", "periodsPerWeek": 0}
+      ]
+    },
+    {
+      "teacherId": "RVS190",
+      "teacherName": "Soumya Nair",
+      "assignments": [
+        {"className": "Class 9", "type": "Subject", "subjectOrActivity": "English", "periodsPerWeek": 10},
+        {"className": "Class 10", "type": "Subject", "subjectOrActivity": "English", "periodsPerWeek": 10},
+        {"className": "Class 11", "type": "Subject", "subjectOrActivity": "English", "periodsPerWeek": 10},
+        {"className": "Class 12", "type": "Subject", "subjectOrActivity": "English", "periodsPerWeek": 10}
+      ]
+    },
+    {
+      "teacherId": "RVS195",
+      "teacherName": "Anjali Singh Chauhan",
+      "assignments": [
+        {"className": "Class 1", "type": "Subject", "subjectOrActivity": "E.V.S.", "periodsPerWeek": 20},
+        {"className": "Class 2", "type": "Subject", "subjectOrActivity": "Communication", "periodsPerWeek": 20}
+      ]
+    },
+    {
+      "teacherId": "RVT095",
+      "teacherName": "Aleena Khan",
+      "assignments": [
+        {"className": "Class 1", "type": "Subject", "subjectOrActivity": "Communication", "periodsPerWeek": 20},
+        {"className": "Class 3", "type": "Subject", "subjectOrActivity": "Mathematics", "periodsPerWeek": 32}
+      ]
+    },
+    {
+      "teacherId": "SPS26",
+      "teacherName": "Leena Jain",
+      "assignments": [
+        {"className": "Class 6", "type": "Subject", "subjectOrActivity": "G.K./Moral", "periodsPerWeek": 10},
+        {"className": "Class 6", "type": "Subject", "subjectOrActivity": "History & Civics", "periodsPerWeek": 10},
+        {"className": "Class 7", "type": "Subject", "subjectOrActivity": "History & Civics", "periodsPerWeek": 5},
+        {"className": "Class 8", "type": "Subject", "subjectOrActivity": "History & Civics", "periodsPerWeek": 5},
+        {"className": "Class 9", "type": "Subject", "subjectOrActivity": "History & Civics", "periodsPerWeek": 10},
+        {"className": "Class 10", "type": "Subject", "subjectOrActivity": "History & Civics", "periodsPerWeek": 10}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+
+{
+  "academicYear": "2026-2027",
+  "weeklyTeachingCapacity": 52,
+  "totalSections": 41,
+  "sections": [
+    {
+      "id": "pre-nursery-lily",
+      "className": "Pre Nursery",
+      "sectionName": "Lily",
+      "grade": 0,
+      "capacity": 35,
+      "curriculumKey": "pre-nursery"
+    },
+    {
+      "id": "nursery-lily",
+      "className": "Nursery",
+      "sectionName": "Lily",
+      "grade": 0,
+      "capacity": 35,
+      "curriculumKey": "nursery"
+    },
+    {
+      "id": "nursery-lavender",
+      "className": "Nursery",
+      "sectionName": "Lavender",
+      "grade": 0,
+      "capacity": 35,
+      "curriculumKey": "nursery"
+    },
+    {
+      "id": "nursery-lotus",
+      "className": "Nursery",
+      "sectionName": "Lotus",
+      "grade": 0,
+      "capacity": 35,
+      "curriculumKey": "nursery"
+    },
+    {
+      "id": "nursery-marigold",
+      "className": "Nursery",
+      "sectionName": "Marigold",
+      "grade": 0,
+      "capacity": 35,
+      "curriculumKey": "nursery"
+    },
+    {
+      "id": "junior-kg-lily",
+      "className": "Junior KG",
+      "sectionName": "Lily",
+      "grade": 0,
+      "capacity": 35,
+      "curriculumKey": "junior-kg"
+    },
+    {
+      "id": "junior-kg-lavender",
+      "className": "Junior KG",
+      "sectionName": "Lavender",
+      "grade": 0,
+      "capacity": 35,
+      "curriculumKey": "junior-kg"
+    },
+    {
+      "id": "junior-kg-lotus",
+      "className": "Junior KG",
+      "sectionName": "Lotus",
+      "grade": 0,
+      "capacity": 35,
+      "curriculumKey": "junior-kg"
+    },
+    {
+      "id": "senior-kg-lily",
+      "className": "Senior KG",
+      "sectionName": "Lily",
+      "grade": 0,
+      "capacity": 35,
+      "curriculumKey": "senior-kg"
+    },
+    {
+      "id": "senior-kg-lavender",
+      "className": "Senior KG",
+      "sectionName": "Lavender",
+      "grade": 0,
+      "capacity": 35,
+      "curriculumKey": "senior-kg"
+    },
+    {
+      "id": "senior-kg-lotus",
+      "className": "Senior KG",
+      "sectionName": "Lotus",
+      "grade": 0,
+      "capacity": 35,
+      "curriculumKey": "senior-kg"
+    },
+    {
+      "id": "class-1-lily",
+      "className": "Class 1",
+      "sectionName": "Lily",
+      "grade": 1,
+      "capacity": 40,
+      "curriculumKey": "class-1"
+    },
+    {
+      "id": "class-1-lavender",
+      "className": "Class 1",
+      "sectionName": "Lavender",
+      "grade": 1,
+      "capacity": 40,
+      "curriculumKey": "class-1"
+    },
+    {
+      "id": "class-1-lotus",
+      "className": "Class 1",
+      "sectionName": "Lotus",
+      "grade": 1,
+      "capacity": 40,
+      "curriculumKey": "class-1"
+    },
+    {
+      "id": "class-1-marigold",
+      "className": "Class 1",
+      "sectionName": "Marigold",
+      "grade": 1,
+      "capacity": 40,
+      "curriculumKey": "class-1"
+    },
+    {
+      "id": "class-2-lily",
+      "className": "Class 2",
+      "sectionName": "Lily",
+      "grade": 2,
+      "capacity": 40,
+      "curriculumKey": "class-2"
+    },
+    {
+      "id": "class-2-lavender",
+      "className": "Class 2",
+      "sectionName": "Lavender",
+      "grade": 2,
+      "capacity": 40,
+      "curriculumKey": "class-2"
+    },
+    {
+      "id": "class-2-lotus",
+      "className": "Class 2",
+      "sectionName": "Lotus",
+      "grade": 2,
+      "capacity": 40,
+      "curriculumKey": "class-2"
+    },
+    {
+      "id": "class-2-marigold",
+      "className": "Class 2",
+      "sectionName": "Marigold",
+      "grade": 2,
+      "capacity": 40,
+      "curriculumKey": "class-2"
+    },
+    {
+      "id": "class-3-lily",
+      "className": "Class 3",
+      "sectionName": "Lily",
+      "grade": 3,
+      "capacity": 40,
+      "curriculumKey": "class-3"
+    },
+    {
+      "id": "class-3-lavender",
+      "className": "Class 3",
+      "sectionName": "Lavender",
+      "grade": 3,
+      "capacity": 40,
+      "curriculumKey": "class-3"
+    },
+    {
+      "id": "class-3-lotus",
+      "className": "Class 3",
+      "sectionName": "Lotus",
+      "grade": 3,
+      "capacity": 40,
+      "curriculumKey": "class-3"
+    },
+    {
+      "id": "class-3-marigold",
+      "className": "Class 3",
+      "sectionName": "Marigold",
+      "grade": 3,
+      "capacity": 40,
+      "curriculumKey": "class-3"
+    },
+    {
+      "id": "class-4-lily",
+      "className": "Class 4",
+      "sectionName": "Lily",
+      "grade": 4,
+      "capacity": 40,
+      "curriculumKey": "class-4"
+    },
+    {
+      "id": "class-4-lavender",
+      "className": "Class 4",
+      "sectionName": "Lavender",
+      "grade": 4,
+      "capacity": 40,
+      "curriculumKey": "class-4"
+    },
+    {
+      "id": "class-4-lotus",
+      "className": "Class 4",
+      "sectionName": "Lotus",
+      "grade": 4,
+      "capacity": 40,
+      "curriculumKey": "class-4"
+    },
+    {
+      "id": "class-5-lily",
+      "className": "Class 5",
+      "sectionName": "Lily",
+      "grade": 5,
+      "capacity": 40,
+      "curriculumKey": "class-5"
+    },
+    {
+      "id": "class-5-lavender",
+      "className": "Class 5",
+      "sectionName": "Lavender",
+      "grade": 5,
+      "capacity": 40,
+      "curriculumKey": "class-5"
+    },
+    {
+      "id": "class-5-lotus",
+      "className": "Class 5",
+      "sectionName": "Lotus",
+      "grade": 5,
+      "capacity": 40,
+      "curriculumKey": "class-5"
+    },
+    {
+      "id": "class-6-lily",
+      "className": "Class 6",
+      "sectionName": "Lily",
+      "grade": 6,
+      "capacity": 40,
+      "curriculumKey": "class-6"
+    },
+    {
+      "id": "class-6-lavender",
+      "className": "Class 6",
+      "sectionName": "Lavender",
+      "grade": 6,
+      "capacity": 40,
+      "curriculumKey": "class-6"
+    },
+    {
+      "id": "class-7-lily",
+      "className": "Class 7",
+      "sectionName": "Lily",
+      "grade": 7,
+      "capacity": 50,
+      "curriculumKey": "class-7"
+    },
+    {
+      "id": "class-8-lily",
+      "className": "Class 8",
+      "sectionName": "Lily",
+      "grade": 8,
+      "capacity": 50,
+      "curriculumKey": "class-8"
+    },
+    {
+      "id": "class-9-lily",
+      "className": "Class 9",
+      "sectionName": "Lily",
+      "grade": 9,
+      "capacity": 40,
+      "curriculumKey": "class-9"
+    },
+    {
+      "id": "class-9-lavender",
+      "className": "Class 9",
+      "sectionName": "Lavender",
+      "grade": 9,
+      "capacity": 40,
+      "curriculumKey": "class-9"
+    },
+    {
+      "id": "class-10-lily",
+      "className": "Class 10",
+      "sectionName": "Lily",
+      "grade": 10,
+      "capacity": 40,
+      "curriculumKey": "class-10"
+    },
+    {
+      "id": "class-10-lavender",
+      "className": "Class 10",
+      "sectionName": "Lavender",
+      "grade": 10,
+      "capacity": 40,
+      "curriculumKey": "class-10"
+    },
+    {
+      "id": "class-11-lily",
+      "className": "Class 11",
+      "sectionName": "Lily",
+      "grade": 11,
+      "capacity": 40,
+      "curriculumKey": "class-11"
+    },
+    {
+      "id": "class-11-lavender",
+      "className": "Class 11",
+      "sectionName": "Lavender",
+      "grade": 11,
+      "capacity": 40,
+      "curriculumKey": "class-11"
+    },
+    {
+      "id": "class-12-lily",
+      "className": "Class 12",
+      "sectionName": "Lily",
+      "grade": 12,
+      "capacity": 40,
+      "curriculumKey": "class-12"
+    },
+    {
+      "id": "class-12-lavender",
+      "className": "Class 12",
+      "sectionName": "Lavender",
+      "grade": 12,
+      "capacity": 40,
+      "curriculumKey": "class-12"
+    }
+  ]
+}
